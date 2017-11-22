@@ -1,3 +1,121 @@
-/*
- * Estilos de tu proyecto
- */
+body {
+	padding: 0;
+	margin: 0;
+  width: 100%;
+	font-family: Helvetica,Arial,Lucida,sans-serif;
+
+}
+nav {
+	width: 100%;
+	position: relative;
+	background-color: #261f3c;
+}
+.container {
+	width: 100%;
+  height: 600px;
+  background:url(../assets/images/hero.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.white {
+	background-color: #fff;
+}
+
+.logo {
+	width: 5%;
+
+}
+a{
+	text-decoration: none;
+	text-align: right;
+	position: absolute;
+	font-size: 20px;
+}
+
+
+
+.phone {
+	width: 40%;
+}
+.morado {
+	background-color: #650e82;
+	margin-top: 0px;
+}
+.description {
+	width: 60%;
+	float: left;
+	height: 50%;
+	color: white;
+}
+
+
+}
+nav {
+	width: 100%;
+	position: relative;
+	background-color: #261f3c;
+}
+.enlaces {
+	position: relative;
+    left: 70%;
+    display: inline-block;
+    padding: 20px;
+    color: #7c70af;
+}
+#formulario {
+	text-align: left;
+	margin-left: 500px;
+}
+
+
+.bottom {
+	margin-top: -4px;
+}
+
+.btn-become {
+	background-color: #ff00bf;
+	width: 200px;
+	height: 50px;
+	font-size: 20px;
+	border: none;
+	border-radius: .5rem;
+	padding: 5px;
+	color: white;
+}
+#forms {
+	color: #ff00bf;
+	font-size: 12px;
+}
+#form {
+	color: #333447;
+}
+.text-small{
+	font-size: small;
+	color: #7c70af;
+}
+.pharagraph-description {
+	font-size: 15px;
+}
+h3 {
+	font-size: 20px;
+}
+h1 {
+	color: #fff;
+	margin: 0;
+}
+.sign {
+	color: #fff;
+}
+#boton-log {
+	border-radius: .5px;
+	width: 7%;
+	background-color: transparent;
+	font-size: 15px;
+}
+#formulario {
+	padding-left: 310px;
+}
+
+
+}
